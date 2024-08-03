@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebousoc.github.io/sitemap.html.gz
+Sitemap: https://ebousoc.github.io/app/sitemap.html.gz
+Sitemap: https://ebousoc.github.io/assets/sitemap.html.gz
+Sitemap: https://ebousoc.github.io/css/sitemap.html.gz
+Sitemap: https://ebousoc.github.io/includes/sitemap.html.gz
+Sitemap: https://ebousoc.github.io/item/sitemap.html.gz
+Sitemap: https://ebousoc.github.io/src/sitemap.html.gz
